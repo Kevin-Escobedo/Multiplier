@@ -1,0 +1,8 @@
+Explanation of Game:
+1. Each player is given 2 cards.
+2. Ace = 1 point, Jack = 11 point, Queen = 12 point, King = 13 point, 2-10 = 2-10
+3. Black cards (clubs and spades) are considered positive, red cards (diamonds and hearts) are negative
+4. For each card, the player rolls a die; the result is the "mulitiplier".
+5. For each card, a coin is flipped. If the result is heads, the mulitiplier is the die roll. If tails, there is no mulitiplier.
+6. Each player can recieve up to 3 more cards and repeat the process.
+7. The player with the highest positive points wins.
